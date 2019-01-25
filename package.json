@@ -1,0 +1,12 @@
+{
+  "name": "molskiego-wyzywator",
+  "version": "0.0.1",
+  "description": "xd",
+  "main": "index.js",
+  "author": "cdk",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.4.2",
+    "node-schedule": "^1.3.1"
+  }
+}
