@@ -55,7 +55,7 @@ discordClient.on('message', msg => {
             ogolnyKanal.send(
               molski.toString() + ' ' + cfg.insults[randomInt(insultsCount - 1)]
             );
-          }, 750 * i);
+          }, 1250 * i);
         }
       }
     }
