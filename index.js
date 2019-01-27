@@ -65,13 +65,13 @@ discordClient.on('message', msg => {
 discordClient.login(process.env.token); // tajne info
 
 // wyzywa molskiego co 45 minut
-schedule.scheduleJob('/45 * * * *', () => {
+schedule.scheduleJob('*/45 * * * *', () => {
   ogolnyKanal.send(
     molski.toString() + ' ' + cfg.insults[randomInt(insultsCount - 1)]
   );
 });
 
 // :)
-schedule.scheduleJob('20 16 * * *', () => {
+schedule.scheduleJob('0 20 16 * * *', () => {
   ogolnyKanal.send(cfg.fourtwenty[randomInt(czterdwazeroCount - 1)]);
 });
