@@ -1,27 +1,45 @@
 {
-    "insults": [
-        "zamknij morde kurwa",
-        "japa tam kurwa",
-        "klej pizde",
-        "ty kurwa cwelu jebany zakmnij łeb",
-        "wez kurwa sklej wary wkoncu",
-        "jebany przyczłap",
-        "inwalida pierdolony sie odezwał",
-        "śmieć",
-        "albo wkońcu zamkniesz ryj skurwensynu albo ci zajebe taka lepe ale taka kurwa mocna ze po ciebie helikopter przyleci",
-        "stul pysk",
-        "wypierdalaj",
-        "zjeb",
-        "ty kurwa dziwko jebana",
-        "szmatławcu pierdolony",
-        "ssij kurwa",
-        "weź sie człowieku umyj",
-        "i na chuj to gadasz",
-        "skończ pierdolić zjebie",
-        "morda psie jebany",
-        "pies",
-        "krzysztof cie pierdoli",
-        "wypierdalaj stond zpokoju jusz",
-        "pizdo rozruchana"
-    ]
+  "shutup": [
+    "zamknij morde kurwa",
+    "japa tam kurwa",
+    "klej pizde",
+    "ty kurwa cwelu jebany zakmnij łeb",
+    "wez kurwa sklej wary wkoncu",
+    "inwalida pierdolony sie odezwał",
+    "albo wkońcu zamkniesz ryj skurwensynu albo ci zajebe taka lepe ale taka kurwa mocna ze po ciebie helikopter przyleci",
+    "stul pysk",
+    "i na chuj to gadasz",
+    "skończ pierdolić zjebie"
+  ],
+
+  "insults": [
+    "jebany przyczłap",
+    "śmieć",
+    "wypierdalaj",
+    "zjeb",
+    "ty kurwa dziwko jebana",
+    "szmatławcu pierdolony",
+    "ssij kurwa",
+    "weź sie człowieku umyj",
+    "morda psie jebany",
+    "pies",
+    "jebać cie",
+    "pizda",
+    "chuj ci na łeb frajerze",
+    "krzysztof cie pierdoli",
+    "wypierdalaj stond zpokoju jusz",
+    "pizdo rozruchana",
+    "cwel jebany",
+    "idź stad kurwa",
+    "wkurwiasz mnie"
+  ],
+
+  "fourtwenty": [
+    "Palimy kurwa juz 4:20 !!!!!!!!!",
+    "JARANIE J  A   R A AN IE !!!!",
+    "MARIHAEN WSTRZYKUJEMY DZIEWCZYNY 4:20",
+    "JARAŃSKO KURWA!!",
+    "Palimy chłopcy 4:20",
+    "K O P C I M Y :shamrock:"
+  ]
 }
