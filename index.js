@@ -46,6 +46,10 @@ discordClient.on('message', msg => {
       if (isNumber(cmd[1])) {
         let num = parseInt(cmd[1]);
         if (num < 0) return;
+        if (num > 10) {
+          ogolnyKanal.send('max 10 kurwa');
+          return;
+        } // max 10 zeby kogos nie popierdolilo i nie bot dostal bana
         for (var i = 0; i < num; i++) {
           setTimeout(() => {
             ogolnyKanal.send(
